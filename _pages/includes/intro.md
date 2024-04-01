@@ -10,4 +10,4 @@ I am interested in the following topics:
 
 
 # To Prospective Student:
-- Make sure you read this document before sending emails.
+- Make sure you read this [document](https://huyutao0910.github.io/docs/Prospective_Student.pdf) before sending emails.
