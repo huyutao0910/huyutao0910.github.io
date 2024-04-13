@@ -1,6 +1,6 @@
 # 📝 Selected Publications 
 
-For full publications, please find at [here](https://scholar.google.com.hk/citations?user=4sXuGXAAAAAJ&hl=en)
+For my full publication list, please go to my [google scholar profile](https://scholar.google.com.hk/citations?user=4sXuGXAAAAAJ&hl=en)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/sp_cvpr24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,3 +77,5 @@ Nas-count: Counting-by-density with neural architecture search<br>
 via optimizing structural information on multiple scales
 </div>
 </div>
+
+
