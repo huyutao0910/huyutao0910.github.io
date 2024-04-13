@@ -56,6 +56,5 @@ Variational self-distillation for remote sensing scene classification<br>
 
 
 - We propose Variational Self-Distillation Network (VSD-Net) to adaptively exploit class entanglement information and hierarchically distill it from the deep layers into the shallow parts. In this way, besides the category information, more fine-grained information is provided in the training, contributing to discriminative feature learning.
-- We design a Variational Knowledge Transfer (VKT) module to maximize the mutual information between each student-teacher pair and promote the robustness of knowledge distillation. In VKT module, we utilize variational estimation to solve the intractable conditional distribution, based on which the end-to-end optimization is enabled. By doing so, a probabilistic model is established, which is more robust to the uncertainty and idiosyncratic perturbation within the remote sensing images.
 </div>
 </div>
