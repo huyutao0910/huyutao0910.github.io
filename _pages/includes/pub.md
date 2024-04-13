@@ -39,7 +39,7 @@ Hierarchical self-distilled feature learning for fine-grained visual categorizat
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/9614660/)
 
 
-- We rethink the efficacy of deep supervision in FGVC and propose a new learning framework, termed HSD, in which the prediction from the next block is utilized as the soft labels for the previous one. By doing so, overstrict supervision, which has been proven detrimental to FGVC, is avoided in the intermediate supervision.
-- We design a distillation strategy with dynamic temperature adjustment. In our HSD, instead of using the hyperparameter (temperature T) to produce the soft label, we employ SIELoss to regularize each prediction, which not only drives each layer to deliver soft labels adaptively but also improves the generalization ability of the network.
+- We rethink the efficacy of deep supervision in FGVC and propose a new learning framework, termed HSD, in which the prediction from the next block is utilized as the soft labels for the previous one. By doing so, overstrict supervision, which has been proven detrimental to FGVC, is avoided in the intermediate supervision.
+- We design a distillation strategy with dynamic temperature adjustment. In our HSD, instead of using the hyperparameter (temperature T) to produce the soft label, we employ SIELoss to regularize each prediction, which not only drives each layer to deliver soft labels adaptively but also improves the generalization ability of the network.
 </div>
 </div>
