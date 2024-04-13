@@ -5,6 +5,7 @@
 
 OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM<br>
 **Yutao Hu**, Tianbin Li, Quanfeng Lu, Wenqi Shao, Junjun He, Yu Qiao, Ping Luo
+
 [**Code**](https://github.com/OpenGVLab/Multi-Modality-Arena/tree/main/MedicalEval), [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_Beyond_One-to-One_Rethinking_the_Referring_Image_Segmentation_ICCV_2023_paper.pdf)
 
 
