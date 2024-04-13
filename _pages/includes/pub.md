@@ -46,7 +46,7 @@ Hierarchical self-distilled feature learning for fine-grained visual categorizat
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/sp_tgrs22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS</div><img src='images/sp_tgrs22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Variational self-distillation for remote sensing scene classification<br>
