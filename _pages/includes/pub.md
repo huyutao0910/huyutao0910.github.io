@@ -43,3 +43,19 @@ Hierarchical self-distilled feature learning for fine-grained visual categorizat
 - We design a distillation strategy with dynamic temperature adjustment. In our HSD, instead of using the hyperparameter (temperature T) to produce the soft label, we employ SIELoss to regularize each prediction, which not only drives each layer to deliver soft labels adaptively but also improves the generalization ability of the network.
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/sp_tgrs22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Variational self-distillation for remote sensing scene classification<br>
+**Yutao Hu**, Xin Huang, Xiaoyan Luo, Jungong Han, Xianbin Cao, Jun Zhang
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/9844008)
+
+
+- We propose Variational Self-Distillation Network (VSD-Net) to adaptively exploit class entanglement information and hierarchically distill it from the deep layers into the shallow parts. In this way, besides the category information, more fine-grained information is provided in the training, contributing to discriminative feature learning.
+- We design a Variational Knowledge Transfer (VKT) module to maximize the mutual information between each student-teacher pair and promote the robustness of knowledge distillation. In VKT module, we utilize variational estimation to solve the intractable conditional distribution, based on which the end-to-end optimization is enabled. By doing so, a probabilistic model is established, which is more robust to the uncertainty and idiosyncratic perturbation within the remote sensing images.
+</div>
+</div>
