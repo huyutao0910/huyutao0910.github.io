@@ -28,3 +28,18 @@ Beyond One-to-One: Rethinking the Referring Image Segmentation<br>
 - We collect a new challenging dataset, termed as RefZOM, in which the text inputs are not limited to the one-to-one setting. The proposed dataset provides a new perspective and benchmark for future research.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/sp_tnnls20.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Hierarchical self-distilled feature learning for fine-grained visual categorization<br>
+**Yutao Hu**, Xiaolong Jiang, Xuhui Liu, Xiaoyan Luo, Yao Hu, Xianbin Cao, Baochang Zhang, Jun Zhang
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/9614660/)
+
+
+- We rethink the efficacy of deep supervision in FGVC and propose a new learning framework, termed HSD, in which the prediction from the next block is utilized as the soft labels for the previous one. By doing so, overstrict supervision, which has been proven detrimental to FGVC, is avoided in the intermediate supervision.
+- We design a distillation strategy with dynamic temperature adjustment. In our HSD, instead of using the hyperparameter (temperature T) to produce the soft label, we employ SIELoss to regularize each prediction, which not only drives each layer to deliver soft labels adaptively but also improves the generalization ability of the network.
+</div>
+</div>
