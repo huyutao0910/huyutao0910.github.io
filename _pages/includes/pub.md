@@ -1,4 +1,6 @@
-# 📝 Publications 
+# 📝 Selected Publications 
+
+For full publications, please find at [here](https://scholar.google.com.hk/citations?user=4sXuGXAAAAAJ&hl=en)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/sp_cvpr24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,5 +58,22 @@ Variational self-distillation for remote sensing scene classification<br>
 
 
 - We propose Variational Self-Distillation Network (VSD-Net) to adaptively exploit class entanglement information and hierarchically distill it from the deep layers into the shallow parts. In this way, besides the category information, more fine-grained information is provided in the training, contributing to discriminative feature learning.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2020</div><img src='images/sp_eccv20.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Nas-count: Counting-by-density with neural architecture search<br>
+**Yutao Hu**, Xiaolong Jiang, Xuhui Liu, Baochang Zhang, Jungong Han, Xianbin Cao, David Doermann
+
+[**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_45)
+
+
+- To our best knowledge, NAS-Count is the first attempt at introducing NAS for crowd counting, where a multi-scale architecture is automatically developed to address the scale variation issue.
+-  A counting-specific two-level search space is developed in NAS-Count, from which a multi-path encoder-decoder architecture (AMSNet) is discovered efficiently with a differentiable search strategy using stochastic gradient descent (SGD)
+- scale Pyramid Pooling Loss (SPPLoss) is searched automatically to improve MSE supervision, which helps produce the higher-quality density map
+via optimizing structural information on multiple scales
 </div>
 </div>
