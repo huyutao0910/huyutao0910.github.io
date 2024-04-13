@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/sp_iccv23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/sp_cvpr24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM<br>
