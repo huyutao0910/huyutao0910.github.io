@@ -14,5 +14,5 @@ I am interested in the following topics:
 
 
 # To Prospective Student:
-If you are interested in join my group for master degree, please fell free to contact with me with your resume. 
+If you are interested in joining my group for master degree, please fell free to contact with me with your resume. 
 - Make sure you read this [document](https://huyutao0910.github.io/docs/Prospective_Student.pdf) before sending emails.
