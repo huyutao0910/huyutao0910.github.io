@@ -4,6 +4,8 @@ I am currently a postdoctoral researcher at The University of Hong Kong, working
 
 I will soon join [School of Computer Science and Engineering at Southeast University](https://cse.seu.edu.cn/) as associate professor.
 
+**Contact me with**: huyutao_0910 AT 163 dot com
+
 # Research:
 I am interested in the following topics:
 * Multi-modal learning with RGB images, textual description, hyperspectral images, infrared image, etc.
