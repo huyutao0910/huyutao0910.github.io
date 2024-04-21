@@ -9,7 +9,7 @@ I will join [School of Computer Science and Engineering at Southeast University]
 # Research:
 I am interested in the following topics:
 * Multi-modal learning with RGB images, textual description, hyperspectral images, infrared image, etc.
-* Artificial intelligence for science (AI4Science).
+* Artificial intelligence for medical.
 
 
 
