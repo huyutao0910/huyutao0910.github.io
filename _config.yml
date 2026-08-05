@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yutao Hu"
-description              : "The Postdoctoral Reasearcher in The University of Hong Kong."
+description              : "Associate Professor in Southeast University."
 repository               : "huyutao/huyutao0910.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yutao Hu"
   avatar           : "images/my_picture.png"
   bio              : # "TikTok"
-  location         : "Hongkong"
+  location         : "Nanjing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=en&user=4sXuGXAAAAAJ"
