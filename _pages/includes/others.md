@@ -6,5 +6,6 @@
 
 
 # 💻 Work Experiences
-- *2022.07 - now*, Postdoctoral Researcher, The University of Hongkong.
+- *2022.07 - 2024.06*, Postdoctoral Researcher, The University of Hongkong.
+- *2024.06 - now*, Associate Professor, Southeast University.
 
